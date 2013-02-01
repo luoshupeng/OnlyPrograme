@@ -1,6 +1,8 @@
 # OnlyPrograme
 
 **The example for Runing Programe once.只让程序运行一次的例子。**  
+*语言：CSharp*  
+*环境：Visual Studio 2010 and DotNetFramework4.0 on Windows 7*
 
 > 主要说明如何使程序只运行一次，主流有两种方法：  
 > 1.互斥量方法  
